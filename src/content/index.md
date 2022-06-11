@@ -7,7 +7,7 @@ seo:
   socialImage: /assets/images/metalsmith-starter-social.png
   canonicalOverwrite: ""
 ---
-# Metalsmith Netlify CMS Starter
+# Barber Praha
 
 ![](/assets/images/hammer-anvil-blacksmith.png)
 
